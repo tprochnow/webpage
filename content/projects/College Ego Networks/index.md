@@ -3,7 +3,7 @@
 date = 2019-07-26
 
 # Project title.
-title = "Summer Care Physical Activity"
+title = "College Ego Networks"
 
 # Project summary to display on homepage.
 summary = "Impact of physical activity and friendships at summer care programs"
