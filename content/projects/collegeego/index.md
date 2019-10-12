@@ -6,7 +6,7 @@ date = 2019-07-26
 title = "College Ego Networks"
 
 # Project summary to display on homepage.
-summary = "Investigating the influence of personal networks on college student health behavior"
+summary = "Investigating the influence of personal networks on college student health behaviors"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
  image_preview = "bgc.jpg"
