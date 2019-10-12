@@ -48,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:megpatterson@tamu.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/drmegoatterson
+  link: https://twitter.com/drmegpatterson
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=dn6NJr4AAAAJ&hl=en
