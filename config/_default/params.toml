@@ -118,7 +118,7 @@ address = {street = "4243 TAMU", city = "COllege Station", region = "TX", postco
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "drmegpatterson"
 
 ############################
 ## Regional Settings
