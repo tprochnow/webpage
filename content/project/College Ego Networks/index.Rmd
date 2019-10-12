@@ -1,0 +1,72 @@
+---
+title: "index"
+output: html_document
+
++++
+# Date this page was created.
+date = 2019-07-26
+
+# Project title.
+title = "College Ego Networks"
+
+# Project summary to display on homepage.
+summary = "The influence of personal networks on college student health behavior"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+ image_preview = "bgc.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+ tags = ["Youth PA","SNA"]
+
+# Optional external URL for project (replaces project detail page).
+# external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+# image = "SPUSF.png"
+# caption = "My caption :smile:"
+
++++
+This project is funded by the Baylor University Research Committee in collaboration with two Boys & Girls Clubs to examine the role of summer care on friendship and physical activity over a summer. This longitudinal study aims to add to the literature surrounding the decrease in activity over summer and elaborate on the role friends play in physical activity behavior. The role of sex and gender will also be examined in the differences in friend groups and activity may change as children move through adolescence. 
+
+Responsibilities:
+
+- Grant Writing
+
+- Data Collection
+
+- Social Network Data Analysis
+
+- Manuscript Preparation
+
+- Community Partner cultivation and reporting
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
