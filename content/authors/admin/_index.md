@@ -25,6 +25,7 @@ interests:
 - Community Health
 - Physical Activity
 - Addiction & Recovery
+- Intepersonal Violence
 
 education:
   courses:
