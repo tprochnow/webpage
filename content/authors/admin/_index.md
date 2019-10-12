@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Meg Patterson is an Assistant Professor in the Department of Health and Kinesiology at Texas A&M University. Her research focuses on using network analysis to measure how social and spatial networks impact the overall wellbeing of individuals and communities. Her training in research methods and network analysis provides ample opportunities to design, conduct, and collaborate on a variety of studies within behavioral science. Most recently, this has involved using a network perspective to study compulsive exercise and body satisfaction among sorority members, interpersonal violence on college campuses, addiction recovery communities, adolescent physical activity, and inner-city risk networks for long-haul truck drivers, among others.
+Meg Patterson is an Assistant Professor in the Department of Health and Kinesiology at Texas A&M University. Her research focuses on using network analysis to measure how social and spatial networks impact the overall wellbeing of individuals and communities. 
