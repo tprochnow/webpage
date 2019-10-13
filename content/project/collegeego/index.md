@@ -9,7 +9,7 @@ title = "College Ego Networks"
 summary = "Investigating the influence of personal networks on college student health behaviors"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "bgc.jpg"
+# image_preview = "network.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-# image = "SPUSF.png"
+# image = "network.png"
 # caption = "My caption :smile:"
 
 +++
